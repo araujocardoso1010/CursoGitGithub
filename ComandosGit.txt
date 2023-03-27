@@ -5,3 +5,6 @@ git add .
 git commit -m "commit inicial"
 git remote add origin https://github.com/araujocardoso1010/CursoGitGithub
 git push --set-upstream origin master
+git push
+git reflog
+git reset --hard 53b2dfb (id da versão)

@@ -3,3 +3,5 @@ git status
 git add "NomeArquivo.extensao"
 git add .
 git commit -m "commit inicial"
+git remote add origin https://github.com/araujocardoso1010/CursoGitGithub
+git push --set-upstream origin master
